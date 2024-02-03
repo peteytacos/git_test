@@ -1,2 +1,2 @@
 # git_test
-TOP GitHub Training
+The Odin Project GitHub Training
